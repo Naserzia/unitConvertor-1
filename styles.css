@@ -53,7 +53,7 @@ body {
 }
 
 .unit-converter__input::placeholder {
-  color: #fff;
+  color: #cdcdcd;
 }
 
 .unit-converter__button {
